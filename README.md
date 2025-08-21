@@ -2,23 +2,14 @@
 
   <h1>AutoML Project with FLAML</h1>
 
-  <p class="meta">
-    This repo reproduces and extends the tutorial from the Medium post
-    <em>“Hands-on Tutorial on Automatic Machine Learning with FLAML”</em>.
-    👉 <a href="https://medium.com/lumenore/hands-on-tutorial-on-automatic-machine-learning-with-flaml-2ac26d36b1b1" target="_blank" rel="noopener">Original article</a>
+  <p>
+    This project follows the Medium tutorial:
+    <a href="https://medium.com/lumenore/hands-on-tutorial-on-automatic-machine-learning-with-flaml-2ac26d36b1b1">
+      Hands-on Tutorial on Automatic Machine Learning with FLAML
+    </a>
   </p>
 
   <hr />
-
-  <h2>Table of Contents</h2>
-  <ul class="toc">
-    <li><a href="#what-is-flaml">What is FLAML?</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#model-building">Model Building</a></li>
-    <li><a href="#evaluate">Evaluate the Best Model</a></li>
-    <li><a href="#reproducibility">Reproducibility Tips</a></li>
-    <li><a href="#references">References</a></li>
-  </ul>
 
   <h2 id="what-is-flaml">What is FLAML?</h2>
   <p>
